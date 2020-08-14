@@ -9,7 +9,7 @@ Estrutura de pastas:
 ~~~
 
 ## Tarefa sobre catálogo de componentes
-LINK AQUI:
+LINK: https://github.com/assouza19/inf331/blob/master/lab02/notebook/components-01-catalog.ipynb
 
 ## Tarefa Web Components 1
 
