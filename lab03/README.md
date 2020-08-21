@@ -2,9 +2,9 @@
 
 ## Tarefa 1
 
-![Tarefa1 Image](images/tarefa1.png)
+![Tarefa1 Image](imagens/tarefa1.png)
 
 ## Tarefa 2
 
-![Tarefa2 Image](images/tarefa2.png)
+![Tarefa2 Image](imagens/tarefa2.png)
 
