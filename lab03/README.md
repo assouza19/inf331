@@ -1,4 +1,4 @@
-# Lab03 Orquestração e Coreografia
+# Lab03 - Orquestração e Coreografia
 
 ## Tarefa 1
 
